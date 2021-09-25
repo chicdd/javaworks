@@ -1,0 +1,6 @@
+package object;
+
+public class Book extends Object{
+	int bookNumber;
+	String bookTitle;
+}

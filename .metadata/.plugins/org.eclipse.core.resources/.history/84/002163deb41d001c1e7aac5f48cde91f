@@ -1,0 +1,32 @@
+package innerclass;
+
+class A{
+	A(){
+		System.out.println("A 按眉 积己");
+	}
+	
+	class B{  //郴何 努贰胶
+		B(){
+			System.out.println("B 按眉 积己");
+		}
+	}
+	
+	static class C{
+		C(){
+			System.out.println("C 按眉 积己");
+		}
+	}
+}
+
+
+
+
+public class ATest {
+
+	public static void main(String[] args) {
+		A a = new A();
+		A.B b = a.new B();
+		
+	}
+
+}

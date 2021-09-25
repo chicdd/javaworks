@@ -1,0 +1,18 @@
+package innerclass;
+
+class A{
+	A(){
+		System.out.println("A °´Ã¼ »ý¼º");
+	}
+}
+
+
+
+
+public class ATest {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,6 @@
+package object;
+
+public class Book {
+	int bookNumber;
+	String bookTitle;
+}

@@ -1,0 +1,14 @@
+package innerclass;
+
+public class Outer {
+	int outNum = 100;
+	static int sNum = 200;
+	
+	Runnable getRunnable() {
+		
+		class My Runnable implements Runnable{
+			
+		}
+	}
+
+}

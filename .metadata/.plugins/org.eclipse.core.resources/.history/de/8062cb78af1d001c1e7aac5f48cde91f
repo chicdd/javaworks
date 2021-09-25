@@ -1,0 +1,9 @@
+package collection.map;
+
+public class HashSetTest {
+
+	public static void main(String[] args) {
+		Map<String, Integer> map = new HashMap<>();
+	}
+
+}

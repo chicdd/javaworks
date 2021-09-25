@@ -1,0 +1,12 @@
+package collection.map;
+
+import java.util.*;
+
+public class HashSetTest {
+
+	public static void main(String[] args) {
+		//HashMap 클래스의 map 객체 생성
+		Map<String, Integer> map = new HashMap<>();
+	}
+
+}

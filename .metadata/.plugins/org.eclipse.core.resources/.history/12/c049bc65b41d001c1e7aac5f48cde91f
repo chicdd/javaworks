@@ -1,0 +1,16 @@
+package innerclass;
+
+class A{
+	
+}
+
+
+
+
+public class ATest {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

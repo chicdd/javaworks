@@ -1,0 +1,9 @@
+package collection.set;
+
+import java.util.HashSet;
+
+import collection.Member;
+
+public class MemberHashSet {
+	private HashSet<Member> hashSet;
+}

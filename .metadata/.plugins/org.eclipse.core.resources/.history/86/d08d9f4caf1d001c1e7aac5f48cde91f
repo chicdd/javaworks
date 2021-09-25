@@ -1,0 +1,8 @@
+package collection.map;
+
+public class Snippet {
+	public static void main(String[] args) {
+		memberHashSet.removeMember(1002);
+	}
+}
+
